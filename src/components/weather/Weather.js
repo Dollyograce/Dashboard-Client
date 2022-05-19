@@ -23,7 +23,7 @@ export default function Weather() {
             <React.Fragment>
                 <CardContent>
                     <Typography sx={{ fontSize: 14 }} color="text.secondary" gutterBottom>
-                        Todays Forcast
+                        Todays Forecast
                     </Typography>
                     
                     <Typography variant="h5" component="div">
